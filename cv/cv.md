@@ -16,7 +16,7 @@
 📅 2021 – 2023  
 Completed 4 semesters before moving into IT and Cybersecurity full-time.
 
-### Munich Kolleg
+### MünchenKolleg
 **Abitur (Equivalent to High School Diploma)**  
 📅 2016 – 2019  
 
@@ -95,8 +95,7 @@ Completed 4 semesters before moving into IT and Cybersecurity full-time.
 - Deployed a honeypot in a cloud environment to attract potential attackers.
 - Collected and analyzed attack data to improve network security.
 
-### 5. [Wazuh to SOAR Implementation](../projects/wazuh-soar-implementation.md)  
-![Wazuh Logo](../assets/wazuh-logo.png)  
+### 5. [Wazuh to SOAR Implementation](../projects/wazuh-soar-implementation.md)   
 - Implemented Wazuh for centralized log collection.
 - Integrated with Shuffle SOAR to automate incident response.
 
