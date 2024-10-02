@@ -27,7 +27,7 @@ I invite you to explore the projects I've completed, which demonstrate my commit
 - [Malware Analysis Lab](projects/malware-analysis-lab.md)
 - [Vulnerability Identification and Remediation](projects/vulnerability-identification.md)
 - [IDS/ZEEK Network Monitoring](projects/ids-zeek-monitoring.md)
-- [Honeypot Setup](projects/honeypot-setup.md)
+- [Honeypot Setup](projects/honeypot.md)
 - [Wazuh to SOAR Implementation](projects/wazuh-soar-implementation.md)
 
 ---
